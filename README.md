@@ -15,3 +15,5 @@ Project is hosted on Github Pages. https://github.com/agalem/template37
 ## Technologies
 
 Project is created in HTML, SCSS, and JavaScript ( + jQuery).
+
+Design comes from facebook group "Weekly web dev challenge"
